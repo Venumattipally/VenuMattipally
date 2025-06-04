@@ -56,7 +56,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/venumattipally/)
 - 🧑‍💻 [GitHub](https://github.com/Venumattipally)
-- 📧 Email: *[Add your email if you're comfortable]*
+- 📧 Email:venumattipally@gmail.com
 
 ---
 
