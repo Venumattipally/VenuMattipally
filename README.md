@@ -33,7 +33,7 @@
 ### 🔸 [MyFirstSpringBootApp](https://github.com/Venumattipally/MyFirstSpringBootApp)
 > A starter Spring Boot app to demonstrate REST APIs and CRUD operations using Spring Data JPA.
 
-### 🔸 [Twitter Clone (Backend)](https://github.com/Venumattipally/twitter-clone-backend)
+### 🔸 https://github.com/Venumattipally/backend-twitterclone
 > Backend logic for a Twitter-style app — focuses on user registration, tweets, and follow functionality.
 
 ### 🔸 [Shopping Cart Management System](https://github.com/Venumattipally/Shopping-Cart-Management--System)
