@@ -30,17 +30,13 @@
 
 ## 📌 My Projects
 
-### 🔸 [MyFirstSpringBootApp](https://github.com/Venumattipally/MyFirstSpringBootApp)
-> A starter Spring Boot app to demonstrate REST APIs and CRUD operations using Spring Data JPA.
 
 ### 🔸 https://github.com/Venumattipally/backend-twitterclone
 > Backend logic for a Twitter-style app — focuses on user registration, tweets, and follow functionality.
 
 ### 🔸 [Shopping Cart Management System](https://github.com/Venumattipally/Shopping-Cart-Management--System)
 > A backend service for product, cart, and order management using Spring Boot.
-
-### 🔸 [Portfolio Website](https://github.com/Venumattipally/Portfolio-Website)
-> My simple portfolio built using basic HTML/CSS to showcase my journey and skills.
+### https://github.com/Venumattipally/N8n-workflows
 
 ---
 
