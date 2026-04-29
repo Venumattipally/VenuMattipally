@@ -1,50 +1,67 @@
-# 👋 Hi there, I'm Venu Mattipally!
+# AI Automation Portfolio — Venu Mattipally
 
-🎓 I graduated in Civil Engineering in 2023, but my passion led me to Software Development. I’m now building my career as a Java Backend Developer with a strong focus on **Spring Boot**, **REST APIs**, and **database design**.
+Building production-oriented AI automation systems using n8n, LLMs, and real-world business workflows.
 
----
-
-## 🚀 What I’m Working On
-- 🧰 Building backend systems using **Spring Boot**, **Spring Data JPA**, and **Oracle DB**
-- 🔐 Learning **Spring Security** to add robust authentication and authorization
-- 🛒 Working on a **Shopping Cart Management System** (REST APIs only)
-- 🐦 Creating a **Twitter Clone** focusing solely on backend logic
+Focused on solving operational bottlenecks in:
+- Customer Support
+- Lead Management
+- CRM Automation
 
 ---
 
-## 🧠 What I’m Learning
-- 📚 Deepening my knowledge in **Spring Security** and **Spring AOP**
-- ☁️ Exploring **cloud computing** and planning to learn **AWS**
-- 💻 Improving my understanding of **design patterns** and **clean architecture**
+## 🔥 Featured Projects
+
+### 1. AI-Powered Gmail Customer Support Agent
+Automates email triage, classification, and response for EdTech companies handling 100–1000+ emails/day.
+
+**Key Capabilities:**
+- Intent classification (refund, billing, login issues, etc.)
+- Sentiment & urgency detection
+- FAQ-based auto-response (zero hallucination)
+- Smart escalation to human agents
+- Repeat customer detection
+
+**Tech Stack:**
+n8n • Google Gemini • Gmail API • Google Sheets
+
+👉 Full Case Study: `/projects/gmail-support-agent/case-study.md`
 
 ---
 
-## 🛠️ Tech Stack
+### 2. Lead Enrichment & Scoring System (EdTech)
+Processes incoming leads, enriches data, scores them based on ICP fit and engagement, and syncs to CRM.
 
-| Backend      | Database     | Tools & DevOps   |
-|--------------|--------------|------------------|
-| Java, Spring Boot | Oracle, MySQL | Postman, Git, GitHub |
-| Spring Data JPA |              | IntelliJ, VS Code |
+**Key Capabilities:**
+- Schema validation for incoming leads
+- Data enrichment (company, role, etc.)
+- Lead scoring engine (0–100)
+- Tiering: Hot / Warm / Cold
+- CRM sync (HubSpot)
+- Slack alerts for high-priority leads
 
----
+**Tech Stack:**
+n8n • JavaScript • HubSpot • Google Sheets • Slack
 
-## 📌 My Projects
-
-
-### 🔸 https://github.com/Venumattipally/backend-twitterclone
-> Backend logic for a Twitter-style app — focuses on user registration, tweets, and follow functionality.
-
-### 🔸 [Shopping Cart Management System](https://github.com/Venumattipally/Shopping-Cart-Management--System)
-> A backend service for product, cart, and order management using Spring Boot.
-### https://github.com/Venumattipally/N8n-workflows
+👉 Workflow JSON: `/projects/lead-enrichment/workflow.json`
 
 ---
 
-## ✨ Goals
+## 🧠 My Approach
 
-- 📈 Get into a high-growth software role and keep improving as a backend developer
-- 🧩 Build projects that solve real-world problems and showcase them to the world
-- 🤝 Collaborate on open-source Java/Spring Boot projects
+I focus on:
+- Building **production-ready workflows**, not demos
+- Designing systems around **real-world constraints**
+- Ensuring **clear separation of logic (modular architecture)**
+- Prioritizing **business impact over technical complexity**
+
+---
+
+## 📩 Contact
+
+Open to:
+- AI Automation Roles
+- n8n / Workflow Engineering
+- Freelance & Contract Work
 
 ---
 
