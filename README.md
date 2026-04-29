@@ -1,6 +1,9 @@
-# AI Automation Portfolio — Venu Mattipally
+# AI Automation & Backend Engineering Portfolio — Venu Mattipally
 
-Building production-oriented AI automation systems using n8n, LLMs, and real-world business workflows.
+Building production-ready systems using:
+- AI Automation (n8n, LLMs)
+- Backend Development (Java, Spring Boot)
+- API Design & System Integration
 
 Focused on solving operational bottlenecks in:
 - Customer Support
@@ -24,8 +27,8 @@ Automates email triage, classification, and response for EdTech companies handli
 **Tech Stack:**
 n8n • Google Gemini • Gmail API • Google Sheets
 
-👉 Full Case Study: `/projects/gmail-support-agent/case-study.md`
-
+👉 Demo Loom Video 1 : https://www.loom.com/share/3adc9685668049e390d057ce1d93ae49
+👉 Demo Loom Video 1  : https://www.loom.com/share/f1ad456c6f8c4ae2b6e6c88a18a7a68e
 ---
 
 ### 2. Lead Management System (EdTech)
@@ -42,8 +45,7 @@ Processes incoming leads, enriches data, scores them based on ICP fit and engage
 **Tech Stack:**
 n8n • JavaScript • HubSpot • Google Sheets • Slack
 
-👉 Workflow JSON: `/projects/lead-enrichment/workflow.json`
-
+👉 Demo Loom Video : https://www.loom.com/share/33226e653c90424fbdf11e17c884802a
 ---
 
 ## 🧠 My Approach
