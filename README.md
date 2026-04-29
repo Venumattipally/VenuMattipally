@@ -28,7 +28,7 @@ n8n • Google Gemini • Gmail API • Google Sheets
 
 ---
 
-### 2. Lead Enrichment & Scoring System (EdTech)
+### 2. Lead Management System (EdTech)
 Processes incoming leads, enriches data, scores them based on ICP fit and engagement, and syncs to CRM.
 
 **Key Capabilities:**
