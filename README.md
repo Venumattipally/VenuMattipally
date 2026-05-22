@@ -58,15 +58,6 @@ I focus on:
 
 ---
 
-## 📩 Contact
-
-Open to:
-- AI Automation Roles
-- n8n / Workflow Engineering
-- Freelance & Contract Work
-
----
-
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/venumattipally/)
@@ -74,5 +65,3 @@ Open to:
 - 📧 Email:venumattipally@gmail.com
 
 ---
-
-> 💡 *“Every expert was once a beginner — I’m on my journey to become a top backend engineer!”*
