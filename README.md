@@ -9,7 +9,8 @@ Focused on solving operational bottlenecks in:
 - Customer Support
 - Lead Management
 - CRM Automation
-
+-Client Enquiry Agent
+-Websacraping using Firecrawl
 ---
 
 ## 🔥 Featured Projects
